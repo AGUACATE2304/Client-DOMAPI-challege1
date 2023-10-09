@@ -3,7 +3,7 @@
 1. Answer the following questions:
 
    - How would you select from JavaScript an element `p` that has the class `text` and also the class `important`?
-   - `document.querySelector('.important');`
+   - `document.querySelector('.text.important');`
    - How would you select from JavaScript a `button` element with class `button` and that is disabled?
    -`document.querySelector('.button');`
    - How would you select from JavaScript all the `li` elements that are direct children of an `ul` element with class `list`?
